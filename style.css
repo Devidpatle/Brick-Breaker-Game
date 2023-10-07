@@ -1,0 +1,32 @@
+
+
+
+body {
+    padding-top: 100px;
+    background: #DAE2F8;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #D6A4A4, #DAE2F8);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #D6A4A4, #DAE2F8);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+canvas {
+    border: 3px solid rgba(0, 0, 0, 0.685);
+    display: block;
+    margin: 0 auto;
+
+
+}
+
+#gamecanvas {
+    background-color: aqua;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: cursive;
+}
+
